@@ -2,7 +2,6 @@
 This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema.
 
 ## 📝 Project Overview
-This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema. The analysis provides:
 
 - **Sales Performance Trends** (monthly, quarterly, YoY growth)
 - **Regional & Category Insights** (high vs. low-performing regions & segments)
