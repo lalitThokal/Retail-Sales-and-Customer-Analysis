@@ -1,7 +1,4 @@
-# Retail-Sales-and-Customer-Analysis
-This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema.
-
-## 📝 Project Overview
+# 📝 Project Overview
 
 - **Sales Performance Trends** (monthly, quarterly, YoY growth)
 - **Regional & Category Insights** (high vs. low-performing regions & segments)
