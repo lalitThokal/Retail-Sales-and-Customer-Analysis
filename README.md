@@ -1,43 +1,31 @@
 # Retail-Sales-and-Customer-Analysis
 "Power BI project featuring a star schema, Power Query transformations, and advanced DAX calculations for sales insights."
 
-## Key Analytical Objectives
-- **Sales Performance Trends:**
-  - Monthly, quarterly, and year-over-year (YoY) growth analysis.
-  
-- **Regional & Category Insights:**
-  - Comparison of high-performing vs. low-performing regions and product categories.
+## 📝 Project Overview
+This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema. The analysis provides:
 
-- **Product Return Analysis:**
-  - Identification of frequently returned products by region and category.
+- **Sales Performance Trends** (monthly, quarterly, YoY growth)
+- **Regional & Category Insights** (high vs. low-performing regions & segments)
+- **Product Return Analysis** (most returned products by region & category)
+- **What-If Analysis** (profit impact based on discount input)
+- **Pareto Analysis** (top customer contribution to total sales)
+- **Customer Segmentation** (RFM Analysis & best salespersons)
 
-- **What-If Analysis:**
-  - Assessment of profit impact based on varying discount scenarios.
+## 🏗 Power BI Implementation
 
-- **Pareto Analysis:**
-  - Determination of top customer contributions to total sales.
-
-- **Customer Segmentation:**
-  - RFM (Recency, Frequency, Monetary) Analysis for customer segmentation.
-  - Evaluation of top salespersons based on performance metrics.
-
-## Power BI Implementation Details
 ### Data Modeling:
-- Utilization of a Star Schema comprising Fact and Dimension tables.
-- Optimal relationship management for enhanced query performance.
+- Star Schema with Fact and Dimension tables
+- Relationship management for optimal performance
 
 ### Power Query Transformations:
-- Data cleaning and preprocessing steps applied using Power Query.
-- Creation of custom columns and calculated measures to enrich data analysis.
+- Data cleaning and preprocessing
+- Custom columns and calculated measures
 
 ### Visualizations & Analysis:
-- Development of interactive dashboards featuring intuitive filters for user interaction.
-- Time-series analysis to visualize sales trends over time.
-- What-If Analysis implementation using DAX Parameters for dynamic scenarios.
-- RFM Segmentation to derive actionable customer insights and sales strategies.
+- Interactive dashboards with filters
+- Time-series analysis for trends
+- What-If Analysis using DAX Parameters
+- RFM Segmentation for customer insights
 
-## Repository Contents
-- **Data Files:** Contains the dataset used for analysis.
-- **Power BI Files:** Includes the Power BI project files (.pbix) showcasing interactive dashboards and analysis.
-- **Images:** Images of the dashboard
-- **README.md:** Overview of the project, installation instructions, and usage guidelines.
+## 📸 Project Screenshots
+(Add your Power BI dashboard screenshots here)
