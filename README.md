@@ -24,3 +24,5 @@
 - RFM Segmentation for customer insights
 
 https://github.com/lalitThokal/Retail-Sales-and-Customer-Analysis/blob/main/Customer%20Analysis.jpg
+## 📸 Project Screenshots
+Customer Analysis ![Customer Analysis](https://raw.githubusercontent.com/lalitThokal/Retail-Sales-and-Customer-Analysis/dd60ec59bf89f54624f44c26bae573aab45a2a84/Customer%20Analysis.jpg)
