@@ -25,3 +25,4 @@
 - 
 ## 📸 Project Screenshots
 Overall Sales View ![Overall View](https://raw.githubusercontent.com/lalitThokal/Retail-Sales-and-Customer-Analysis/b9bb9febe98d9c3ac52e6a7d5ef7db892fbfdc01/Overall%20View.png)
+![Customer Analysis](https://github.com/user-attachments/assets/7a189e3d-dc93-49f4-bd60-513eb47c6df2)
