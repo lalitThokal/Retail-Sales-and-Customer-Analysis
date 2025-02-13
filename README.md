@@ -1,5 +1,5 @@
 # Retail-Sales-and-Customer-Analysis
-"Power BI project featuring a star schema, Power Query transformations, and advanced DAX calculations for sales insights."
+This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema.
 
 ## 📝 Project Overview
 This project analyzes sales performance and customer insights using Power BI. The dataset includes sales, customer, and product details, modeled using a star schema. The analysis provides:
