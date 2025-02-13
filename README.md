@@ -22,7 +22,6 @@
 - Time-series analysis for trends
 - What-If Analysis using DAX Parameters
 - RFM Segmentation for customer insights
-
-https://github.com/lalitThokal/Retail-Sales-and-Customer-Analysis/blob/main/Customer%20Analysis.jpg
+- 
 ## 📸 Project Screenshots
-Customer Analysis ![Customer Analysis](https://raw.githubusercontent.com/lalitThokal/Retail-Sales-and-Customer-Analysis/dd60ec59bf89f54624f44c26bae573aab45a2a84/Customer%20Analysis.jpg)
+Overall Sales View ![Overall View](https://raw.githubusercontent.com/lalitThokal/Retail-Sales-and-Customer-Analysis/b9bb9febe98d9c3ac52e6a7d5ef7db892fbfdc01/Overall%20View.png)
