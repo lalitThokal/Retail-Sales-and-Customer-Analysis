@@ -23,4 +23,4 @@
 - What-If Analysis using DAX Parameters
 - RFM Segmentation for customer insights
 
-![Overall View](https://raw.githubusercontent.com/lalitThokal/Retail-Sales-and-Customer-Analysis/main/Overall%20View.png)
+https://github.com/lalitThokal/Retail-Sales-and-Customer-Analysis/blob/main/Customer%20Analysis.jpg
