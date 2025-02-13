@@ -24,4 +24,4 @@
 - RFM Segmentation for customer insights
 
 ## 📸 Project Screenshots
-(Add your Power BI dashboard screenshots here)
+Overall Sales View Overall View.png
