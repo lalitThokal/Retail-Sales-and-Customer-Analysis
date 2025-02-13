@@ -39,11 +39,5 @@
 ## Repository Contents
 - **Data Files:** Contains the dataset used for analysis.
 - **Power BI Files:** Includes the Power BI project files (.pbix) showcasing interactive dashboards and analysis.
-- **Documentation:** Detailed documentation on data schema, transformations, and visualization techniques.
+- **Images:** Images of the dashboard
 - **README.md:** Overview of the project, installation instructions, and usage guidelines.
-
-## Usage
-To explore the Retail Sales Analysis project:
-1. Clone the repository to your local machine.
-2. Open the Power BI project file (.pbix) to interact with the dashboards.
-3. Refer to the documentation for insights into data modeling, transformations, and analysis techniques.
