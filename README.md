@@ -47,16 +47,3 @@ To explore the Retail Sales Analysis project:
 1. Clone the repository to your local machine.
 2. Open the Power BI project file (.pbix) to interact with the dashboards.
 3. Refer to the documentation for insights into data modeling, transformations, and analysis techniques.
-
-## Contributing
-Contributions to enhance data models, add new visualizations, or improve analysis techniques are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](link-to-license).
-
-
-Clone the repository to your local machine.
-Open the Power BI project file (.pbix) to interact with the dashboards.
-Refer to the documentation for insights into data modeling, transformations, and analysis techniques.
-Contributing
-Contributions to enhance data models, add new visualizations, or improve analysis techniques are welcome. Please fork the repository, make your changes, and submit a pull request.
